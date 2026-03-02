@@ -161,3 +161,11 @@ Optimized Schedule     →  Display ranked task list + analytics + log
 - 📱 **Mobile App** — Flutter/React Native version
 - 👥 **Team Mode** — multi-user task collaboration
 - 📈 **Productivity Tracker** — completion rate over time
+
+<div align="center">
+
+**⭐ Star this repository if you find it helpful!**
+
+Made with ❤️ by Rutuja
+
+</div>
