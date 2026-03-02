@@ -68,7 +68,7 @@ The greedy strategy always selects the highest-scored task next → produces a n
 ### Steps
 ```bash
 # 1. Clone or download the project
-git clone https://github.com/yourusername/AI_Task_Scheduler.git
+git clone https://github.com/RutujaDeshmukh29/AI-Driven-Multi-Criteria-Task-Scheduling-Optimization-System.git
 cd AI_Task_Scheduler
 
 # 2. Run directly
