@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+tasks_data.json
+schedule_export_*.csv
+
+# Environments
+*env/
+venv/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
