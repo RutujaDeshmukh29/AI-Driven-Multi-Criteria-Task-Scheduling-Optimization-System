@@ -1,6 +1,6 @@
 # 🧠 AI-Driven Multi-Criteria Task Scheduling & Optimization System
 
-> **Developer:** Rutuja | 3rd Year AIML  
+> **Developer:** Rutuja | [RutujaDeshmukh29](https://github.com/RutujaDeshmukh29) | 3rd Year AIML  
 > **Tech Stack:** Python 3 + Tkinter (Zero external dependencies)  
 > **Algorithms:** Heuristic Scoring · Greedy Optimization · Constraint Satisfaction (CSP)
 
